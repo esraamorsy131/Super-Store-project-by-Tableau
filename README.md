@@ -50,4 +50,8 @@ The project delivers actionable recommendations for optimizing sales strategies,
 
 ## Project Dashboard
 
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Super-Store-project-by-Tableau/blob/main/super%20store%20project/Sales%20Dashboard.png)
+
 ![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Super-Store-project-by-Tableau/blob/main/super%20store%20project/Profit%20Dasboard.png)
+
+![Sales Data Analysis Dashboard](https://github.com/esraamorsy131/Super-Store-project-by-Tableau/blob/main/super%20store%20project/Returned%20products%20Dashboard.png)
