@@ -10,7 +10,7 @@ The objective of this project is to analyze the sales and profitability data of 
 ### Tableau
 
 ## Key Tasks and Analysis:
-  1. Data Collection:
+  ## 1. Data Collection:**
    - Gather sales and profit data from the superstore chain's    databases or provided datasets.
    - Ensure data quality and completeness.
 
