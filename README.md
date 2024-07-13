@@ -30,9 +30,6 @@ The objective of this project is to analyze the sales and profitability data of 
    - Compare profitability across different segments (product lines, customer segments).
 
 
-
-
-
 #### Data Analysis 📊
 
 💰 Total Profit: $ 286,397
@@ -44,8 +41,6 @@ The objective of this project is to analyze the sales and profitability data of 
 
 #### Creating Dynamic Dashboard 
    - Developed a dynamic dashboard for interactive data exploration and visualization.
-
-
 
 
 ## Project Outcome 🎯
